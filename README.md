@@ -15,5 +15,5 @@ The framework may have inconsistent behaviour because it was written by old me w
 <li>Use <code>setCurrentContent(ViewContent)</code></li>
 </ol>
 
-You should check out the example usages in test_activities package to understand it better. (<a href="https://github.com/triforce930/cardboard_ui_framework/tree/master/com/karacasoft/cardboardui/test_activities">link</a>) AdapterView's may work unexpectedly.<br />
+You should check out the example usages in test_activities package to understand it better. (<a href="https://github.com/triforce930/cardboard_ui_framework/tree/master/app/src/main/java/com/karacasoft/cardboardui/test_activities">link</a>) AdapterView's may work unexpectedly.<br />
 Should you have any questions, please do not hesitate to ask me.
