@@ -20,3 +20,6 @@ Should you have any questions, please do not hesitate to ask me.
 
 An application made with this framework:
 https://play.google.com/store/apps/details?id=com.karacasoft.cardboardmediaplayer
+
+#About building...
+I couldn't get it built directly with Android Studio. I had to put it inside another project then build the other project.
